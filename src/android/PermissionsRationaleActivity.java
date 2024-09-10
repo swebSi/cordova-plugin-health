@@ -10,7 +10,7 @@ public class PermissionsRationaleActivity extends Activity {
     /**
      * URL that will be opened when the activity starts
      */
-    private String url ="file:///android_asset/www/privacypolicy.html";
+    private String url ="file:///android_asset/public/privacypolicy.html";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
